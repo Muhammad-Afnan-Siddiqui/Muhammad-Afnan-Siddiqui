@@ -5,8 +5,8 @@
   <span style="color:#1E90FF; font-size: 48px;">
     Muhammad Afnan Siddiqui
   </span>
-</h1>
 ![Location](https://img.shields.io/badge/Location-London%2C+Canada-4AB3F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=700&lines=Cloud+%7C+DevOps+%7C+SRE+%7C+Platform+Engineering;AWS+Certified+☁️;Building+Scalable+%26+Reliable+Systems" />
 </p>
