@@ -37,10 +37,9 @@ Become a DevOps Engineer at Microsoft
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Afnan-Siddiqui&theme=dark" />
-</p>
+[![Afnan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Muhammad-Afnan-Siddiqui)
+
+[![Afnan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Muhammad-Afnan-Siddiqui)
 ---
 
 ## 🔥 Streak Stats
