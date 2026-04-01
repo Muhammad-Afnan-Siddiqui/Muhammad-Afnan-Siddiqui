@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Afnan-Siddiqui/Muhammad-Afnan-Siddiqui/main/Banner.gif"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Afnan+Siddiqui;Cloud+%7C+DevOps+%7C+SRE+%7C+Platform+Engineering;AWS+Certified+☁️;Building+Scalable+%26+Reliable+Systems" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Certified;Cloud+Enthusiast;Always+Learning)
-<h1 align="center">Hi 👋, I'm Muhammad Afnan Siddiqui</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS Certified | Cloud Enthusiast ☁️</h3>
+<h1 align="center">
+  <span style="color:#1E90FF;">Muhammad Afnan Siddiqui</span>
+</h1>
 
----
 
 🌱 I’m currently learning:
 - AWS Advanced Services
