@@ -46,8 +46,5 @@ Become a DevOps Engineer at Microsoft
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Afnan-Siddiqui&theme=radical)
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-London%2CCanada-4AB3F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
