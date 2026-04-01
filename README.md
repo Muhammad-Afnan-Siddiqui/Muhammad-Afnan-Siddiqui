@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-Afnan-Siddiqui/Muhammad-Afnan-Siddiqui/main/banner.gif" width="450"/>
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Certified;Cloud+Enthusiast;Always+Learning)
 <h1 align="center">Hi 👋, I'm Muhammad Afnan Siddiqui</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS Certified | Cloud Enthusiast ☁️</h3>
