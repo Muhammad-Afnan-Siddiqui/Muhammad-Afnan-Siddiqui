@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Location-London%2CCanada-4AB3F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=700&lines=Cloud+%7C+DevOps+%7C+SRE+%7C+Platform+Engineering;AWS+Certified+☁️;Building+Scalable+%26+Reliable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=700&lines=💼+Cloud+%7C+DevOps+%7C+SRE+%7C+Platform+Engineering;☁️+AWS+Certified;Building+Scalable+%26+Reliable+Systems" />
 </p>
 
 🌱 I’m currently learning:
