@@ -37,8 +37,25 @@ Become a DevOps Engineer at Microsoft
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-afnan-siddiqui&show_icons=true&theme=radical" alt="Muhammad-Afnan-Siddiqui's GitHub Stats" />
+  <!-- Dark Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-afnan-siddiqui&show_icons=true&theme=dark" alt="GitHub Stats Dark" />
+</p>
+
+<p align="center">
+  <!-- Light Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-afnan-siddiqui&show_icons=true&theme=default" alt="GitHub Stats Light" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-afnan-siddiqui&layout=compact&theme=dark" alt="Top Languages Dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-afnan-siddiqui&layout=compact&theme=default" alt="Top Languages Light" />
 </p>
 ---
 
