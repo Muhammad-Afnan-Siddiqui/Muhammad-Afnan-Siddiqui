@@ -1,11 +1,11 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Afnan-Siddiqui/Muhammad-Afnan-Siddiqui/main/Banner.gif"/>
-</h1>
 <p align="center">
-  <span style="color:#1E90FF; font-size: 48px;">
+  <img src="https://raw.githubusercontent.com/Muhammad-Afnan-Siddiqui/Muhammad-Afnan-Siddiqui/main/Banner.gif"/>
+<p>
+<h1 align="center">
+  <span style="color:#1E90FF; font-size: 55px;">
     Muhammad Afnan Siddiqui
   </span>
-</p>
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=700&lines=💼+Cloud+%7C+DevOps+%7C+SRE+%7C+Platform+Engineering;☁️+AWS+Certified;🚀+Building+Scalable+%26+Reliable+Systems" />
 </p>
