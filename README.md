@@ -48,3 +48,7 @@ Become a DevOps Engineer at Microsoft
 ---
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-London%2CCanada-4AB3F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
