@@ -35,13 +35,6 @@ Become a DevOps Engineer at Microsoft
 
 ---
 
-📊 GitHub Stats
-
-<p>
-  <img src="https://ghstats.dev/api/card?username=Muhammad-Afnan-Siddiqui" alt="GitHub Stats" />
-</p>
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Afnan-Siddiqui&theme=radical)
 
