@@ -175,10 +175,10 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here">
+  <a href="https://www.linkedin.com/in/muhammad-afnan-siddiqui-2b328b1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:afnan.siddiqui97@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Muhammad-Afnan-Siddiqui">
