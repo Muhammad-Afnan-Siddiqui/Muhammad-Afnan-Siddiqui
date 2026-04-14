@@ -178,9 +178,12 @@ Canada is home to some of the world's most exciting tech engineering teams — a
   <a href="https://www.linkedin.com/in/muhammad-afnan-siddiqui-2b328b1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:afnan.siddiqui97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:afnan.siddiqui97@gmail.com">
+  Email (default)
+</a> | 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=afnan.siddiqui97@gmail.com" target="_blank">
+  Open in Gmail
+</a>
   <a href="https://github.com/Muhammad-Afnan-Siddiqui">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
