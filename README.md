@@ -164,7 +164,7 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 </p>
 
 <!-- Profile Views: visitcount is a reliable alternative to komarev -->
-<p align="center">
+<p>
   <img src="https://visitcount.itsvg.in/api?id=Muhammad-Afnan-Siddiqui&label=Profile%20Views&color=6&icon=5&pretty=true"/>
 </p>
 
