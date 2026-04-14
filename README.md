@@ -40,7 +40,22 @@ My obsession? Making systems so resilient that nobody gets paged at 3AM.
 
 ### 🏗️ Infrastructure & IaC
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🖥️ Operating Systems & System Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RHEL%20%2F%20CentOS-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu%20%2F%20Debian-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/systemctl-Service%20Management-6C757D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cron-Job%20Scheduling-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS-0078D4?style=for-the-badge"/>
+</p>
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
