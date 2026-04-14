@@ -57,17 +57,11 @@ My obsession? Making systems so resilient that nobody gets paged at 3AM.
 </p>
 
 ### 🌐 Networking
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DNS-Domain%20Resolution-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTTP%2FHTTPS-Web%20Protocols-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firewall%20%26%20Security-Security-DC3545?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20VPC-Networking-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Subnets%20%7C%20Routing-Advanced-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security%20Groups%20%26%20NACLs-AWS-232F3E?style=for-the-badge"/>
 </p>
 
 ### 🐳 Containers & Orchestration
