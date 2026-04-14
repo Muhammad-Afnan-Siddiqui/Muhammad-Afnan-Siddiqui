@@ -109,8 +109,8 @@ Canada is home to some of the world's most exciting tech engineering teams — a
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Scotiabank-EC111A?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Telus-4B286D?style=for-the-badge&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Scotiabank-EC111A?style=for-the-badge&logo=s&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Telus-4B286D?style=for-the-badge&logo=t-mobile&logoColor=white"/></td>
   </tr>
 </table>
 
@@ -120,13 +120,15 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 
 ## 📊 GitHub Stats
 
+<!-- Stats: using gh-readme-stats via anuraghazra (most reliable self-hostable source) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Afnan-Siddiqui&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Afnan-Siddiqui&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
+<!-- Streak: demolab is the most stable streak host -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Afnan-Siddiqui&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Afnan-Siddiqui&theme=radical&hide_border=true&mode=weekly"/>
 </p>
 
 ---
@@ -134,7 +136,7 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Afnan-Siddiqui&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Afnan-Siddiqui&theme=radical&no-frame=true&row=1&column=6&margin-w=4"/>
 </p>
 
 ---
@@ -142,7 +144,7 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Afnan-Siddiqui&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Afnan-Siddiqui&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -161,8 +163,9 @@ Canada is home to some of the world's most exciting tech engineering teams — a
   </a>
 </p>
 
+<!-- Profile Views: visitcount is a reliable alternative to komarev -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Afnan-Siddiqui&color=8A2BE2&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=Muhammad-Afnan-Siddiqui&label=Profile%20Views&color=6&icon=5&pretty=true"/>
 </p>
 
 ---
