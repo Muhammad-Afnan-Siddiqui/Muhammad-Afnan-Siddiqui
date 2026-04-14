@@ -143,11 +143,6 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 
 ## 📊 GitHub Stats
 
-<!-- Stats: using gh-readme-stats via anuraghazra (most reliable self-hostable source) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Afnan-Siddiqui&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Afnan-Siddiqui&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%"/>
-</p>
 
 <!-- Streak: demolab is the most stable streak host -->
 <p align="center">
@@ -156,13 +151,6 @@ Canada is home to some of the world's most exciting tech engineering teams — a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Afnan-Siddiqui&theme=radical&no-frame=true&row=1&column=6&margin-w=4"/>
-</p>
-
----
 
 ## 📈 Activity Graph
 
