@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Familiar-009925?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-Exploring-#007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-Exploring-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Location-London%2C_Canada-F58220?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
